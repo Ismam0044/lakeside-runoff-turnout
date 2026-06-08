@@ -4,10 +4,9 @@ This project looks at how the Lakeside City Council runoff is going so far. The 
 
 The notebook does the whole thing start to finish. It loads the raw files, shows what is messy in them, cleans and combines everything, works out turnout by precinct, and then builds the report image and the map.
 
-- Notebook: `lakeside_runoff_analysis.ipynb`
-- Report image: `outputs/lakeside_runoff_report.png`
-- Live map: https://ismam0044.github.io/lakeside-runoff-turnout/
-
+- Notebook: [`lakeside_runoff_analysis.ipynb`](https://github.com/Ismam0044/lakeside-runoff-turnout/blob/main/lakeside%20runoff%20turnout.ipynb)
+- Report image: [`outputs/lakeside_runoff_report.png`](https://github.com/Ismam0044/lakeside-runoff-turnout/blob/main/lakeside_runoff_report.png)
+- Live map: [https://ismam0044.github.io/lakeside-runoff-turnout/](https://ismam0044.github.io/lakeside-runoff-turnout/)
 ## How to run this
 
 First, make a new folder on your computer for this project. Then download all the data files from this GitHub repo into that folder. You need all of these:
@@ -62,4 +61,4 @@ One note on framing: the example report was partisan ("Frisco Democrat"), but th
 
 ## The map
 
-The map is in `docs/index.html`. To put it online I turned on GitHub Pages from Settings, then Pages, and set the source to the `main` branch and the `docs` folder. After that it shows up at https://ismam0044.github.io/lakeside-runoff-turnout/
+The map file is `index.html`. To put it online I turned on GitHub Pages from Settings, then Pages, and set the source to the `main` branch and the root folder. After that it shows up at https://ismam0044.github.io/lakeside-runoff-turnout/
