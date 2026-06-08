@@ -3,7 +3,7 @@
 This project looks at how the Lakeside City Council runoff is going so far. The runoff started on June 1 and the data here runs through June 4. Lakeside sits across two counties, Northgate and Southfield, and each county sends its voter files in its own format, so a big part of the work was figuring out how the files connect before measuring anything.
 
 The notebook does the whole thing start to finish. It loads the raw files, shows what is messy in them, cleans and combines everything, works out turnout by precinct, and then builds the report image and the map.
-
+- Check point ipynb file : https://github.com/Ismam0044/lakeside-runoff-turnout/blob/main/Untitled-checkpoint.ipynb
 - Notebook: [`lakeside_runoff_analysis.ipynb`](https://github.com/Ismam0044/lakeside-runoff-turnout/blob/main/lakeside%20runoff%20turnout.ipynb)
 - Report image: [`outputs/lakeside_runoff_report.png`](https://github.com/Ismam0044/lakeside-runoff-turnout/blob/main/lakeside_runoff_report.png)
 - Live map: [https://ismam0044.github.io/lakeside-runoff-turnout/](https://ismam0044.github.io/lakeside-runoff-turnout/)
